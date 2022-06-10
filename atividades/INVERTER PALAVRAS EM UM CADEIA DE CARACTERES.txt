@@ -1,0 +1,11 @@
+DESCRIÇAO DA ATIVIDADE 
+
+mplemente um programa que recebe uma frase e inverta cada palavra sem alterar a ordem das palavras na frase.
+
+Entrada:
+
+lua de cristal que me faz sonhar
+
+Saída:
+
+aul ed latsirc euq em zaf rahnos
