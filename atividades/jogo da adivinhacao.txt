@@ -1,0 +1,9 @@
+Implemente um jogo de adivinhação onde o programa irá gerar aleatoriamente um número entre 1 e 1024 (que irei chamar de chave) e não irá mostrar o número ao usuário. O programa irá exibir a mensagem: Tente adivinhar a chave: "
+
+O usuário irá tentar adivinhar digitando um número (um chute). Se o usuário não acertar, o programa volta a exibir uma mensagem e o processo se repete até o usuário acerte a chave.
+
+Para cada chute do usuário, o programa irá dá um feedback, mostrando na tela uma das mensagens abaixo:
+
+A palavra "Menor", se o chute do usuário é menor do que a chave.
+A palavra "Maior", se o chute do usuário é maior do que a chave.
+A palavra "Acertou", se o chute é igual a chave. 
